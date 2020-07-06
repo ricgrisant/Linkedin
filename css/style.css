@@ -1,0 +1,74 @@
+#row1 {
+	background-color: #e1e9ee;
+}
+
+#row2 {
+	background-color: #F5F5F5;
+}
+
+.card {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+hr.style14 { 
+  border: 0; 
+  height: 1px; 
+  background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -moz-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -ms-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -o-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0); 
+}
+
+#btn-send {
+
+  text-align: right;
+  padding-right: 30px;
+  padding-bottom: 10px;
+
+}
+
+#postime
+{
+
+  text-align:  left;
+  padding-left: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+}
+
+#div-contact
+{
+	text-align: center;
+	background-color: #00adff26;
+	margin-top: 40px;
+}
+
+.posticon
+{
+	padding: 10px
+}
+
+.dropdown
+{
+  position: absolute;
+  right: 25px;
+}
+
+#btndrop
+{
+  background-color: #343a40;
+  border-color: #343a40;
+}
+
+#resultado{
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 250px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+  left: 9%;
+  display: none;
+}
